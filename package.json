@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "async": "^0.9",
-    "esrislurp": "1.0.1",
+    "esrislurp": "https://github.com/sfabijanski/esrislurp/tarball/master",
     "mkdirp": "^0",
     "progress": "^1",
     "request": "^2",
